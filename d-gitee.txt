@@ -1,0 +1,7 @@
+﻿{
+"storeHouse": [
+{"sourceName":"💚tvb优选仓","sourceUrl":"https://gitee.com/kyle28/apps/raw/main/1.txt"},
+{"sourceName":"💛tvb公众仓","sourceUrl":"https://gitee.com/kyle28/apps/raw/main/2.txt"},
+{"sourceName":"❤️tvb聚合仓","sourceUrl":"https://gitee.com/kyle28/apps/raw/main/3.txt"},
+{"sourceName":"🥕tvb预备仓","sourceUrl":"https://gitee.com/kyle28/apps/raw/main/4.txt"}
+]}
