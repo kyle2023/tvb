@@ -1,0 +1,7 @@
+{
+"storeHouse": [
+{"sourceName":"✨我的精选","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kyle2023/tvb/main/t.json"},
+{"sourceName":"🍉tvb欧歌仓","sourceUrl":"http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=tvb"},
+{"sourceName":"☁️tvb云星仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"⚠️交流Q群126087834","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/kyle2023/tvb2/main/t2.json"}
+]}
