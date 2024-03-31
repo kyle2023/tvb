@@ -1,6 +1,6 @@
 //此多仓接口列表为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
 //转载请注明出处，做人做事要凭良心
-//更新时间：2024/02/27 23:51
+//更新时间：2024/03/31 11:47
 {
     "urls": [
         {
@@ -34,6 +34,10 @@
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🏡云星日记线路"
+        },  
+        {
+            "url": "https://agit.ai/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "🚀PG线路"
         }, 
         {
             "url": "http://xhww.fun/小米/DEMO.json",
